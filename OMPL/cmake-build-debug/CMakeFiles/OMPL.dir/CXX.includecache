@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brett/CLionProjects/OMPL/RRTstar.cpp
+ompl/base/SpaceInformation.h
+-
+ompl/base/spaces/SE2StateSpace.h
+-
+ompl/geometric/planners/rrt/RRTstar.h
+-
+ompl/geometric/SimpleSetup.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brett/CLionProjects/Ex5.1/constants.h
+
+/home/brett/CLionProjects/Ex5.1/main.cpp
+iostream
+-
+constants.h
+/home/brett/CLionProjects/Ex5.1/constants.h
+cmath
+-
+
